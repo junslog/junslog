@@ -2,7 +2,10 @@
 
 I'm WonJun Choi, majored in Computer Science in KHU.
 
-Currently I'm studying on Java, Spring and many other tools for BE developer
+Currently I'm studying on Java, Spring and many other tools for BE developer.
+
+Notion :
+Blog :
 
 <!--
 **junslog/junslog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
