@@ -4,7 +4,7 @@ I'm WonJun Choi, majored in Computer Science in KHU.
 
 Currently I'm studying on Java, Spring and many other tools for BE developer.
 
-Notion :
+Notion : notion.so
 Blog : https://velog.io/@ch6403/posts
 
 <!--
