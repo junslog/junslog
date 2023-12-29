@@ -3,9 +3,6 @@
 I'm WonJun Choi, majored in Computer Science in KHU.
 
 Currently I'm studying on Java, Spring and many other tools for BE developer.
-
-Blog : https://velog.io/@ch6403/posts
-
 <!--
 **junslog/junslog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
