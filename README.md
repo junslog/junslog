@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there :)
 
 I'm WonJun Choi, majored in Computer Science in KHU.
 
