@@ -7,7 +7,7 @@
 
 I'm WonJun Choi, majored in Computer Science in KHU.
 
-Currently I'm studying on Java, Spring and many other tools for BE developer.
+Currently I'm studying on Java, Spring and many other tools for Back-End developer.
 
 <br/>
 <br/>
