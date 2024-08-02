@@ -13,7 +13,7 @@
 <br>
 
 ## Tech Stack 💻
-<p>
+
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
@@ -49,10 +49,11 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
-  
-    
+  <br>
+
+<br>
+
 ## Tools 🛠️
-<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
   <br>
@@ -69,8 +70,8 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/> 
   <br>
-  
 
+<br>
 
 ## Github Stats 🔑
 
