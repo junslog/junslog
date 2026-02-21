@@ -4,9 +4,6 @@
 
 <div style="display: flex; align-items: center;">
     <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ch6403" style="margin-right: 10px;" alt="Badge">
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunslog&count_bg=%237B7B7B&title_bg=%234FA443&icon=keybase.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-    </a>
 </div>
 
 <div align=center> 
@@ -32,8 +29,6 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
-
   
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
@@ -72,9 +67,5 @@
   <br>
 
 <br>
-
-## Github Stats 🔑
-
-![Junslog's GitHub stats](https://github-readme-stats.vercel.app/api?username=junslog&show_icons=true&theme=radical)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=66CDAA&height=200&section=footer)
